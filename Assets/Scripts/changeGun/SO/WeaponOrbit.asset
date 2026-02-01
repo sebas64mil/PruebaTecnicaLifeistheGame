@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c950a33b5d12c9b43af863254285a259, type: 3}
+  m_Name: WeaponOrbit
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  weaponName: Orbit
+  projectilePrefab: {fileID: 5264204980150797497, guid: be2dab2d8d9a4b04598e38de459795ad, type: 3}
+  fireRate: 1
+  maxAmmo: 15
+  baseForce: 15
+  poolSize: 10

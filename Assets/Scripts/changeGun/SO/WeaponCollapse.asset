@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c950a33b5d12c9b43af863254285a259, type: 3}
+  m_Name: WeaponCollapse
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  weaponName: Collapse
+  projectilePrefab: {fileID: 4102551925471414120, guid: 8ff78504233c47845a78064d097f1ab9, type: 3}
+  fireRate: 1
+  maxAmmo: 10
+  baseForce: 10
+  poolSize: 10
